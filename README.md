@@ -1,14 +1,14 @@
-# GI Minor Python course
+# Mini Python course
 
-Dear GI Minor student, 
+Dear "Big Questions in Data" student, 
 
-Welcome to the Vrije Universiteit Python course. In this course we'll take a small dive into the Python programming language. We'll cover some **basic programming concepts** and briefly delve into **data acquisition** by using API's.
+Welcome to this mini Python course. In this course we'll take a small dive into the Python programming language. We'll cover some **basic programming concepts** and briefly delve into **data acquisition** by using API's.
 
 From previous iterations we've distilled that learning the basics isn't the challenge (anymore) due to the abundance of open online courses and interactive online tutorials. **Rather, the question is: how do I craft useful scripts that solve real-world problems?** 
 
 Hence, we'll show you how to **apply your knowledge** to the challenges you'd like to **address day-to-day activities**. Along the way, we'll show you how to solve common Python-related problems, give you tips-and-tricks about finding help and expanding Python's capabilities with external modules.
 
-This course is extremely hands-on: **we don't have slides or extensive lecture notes; we'll only show and execute Python code**. We think we can get away with this approach only because you'll have done the bulk of the learning by the time you join us on Monday morning. 
+This course is extremely hands-on: **we don't have slides or extensive lecture notes; we'll only show and execute Python code**. We think we can get away with this approach only because you'll have done the bulk of the learning by the time you join us on Tuesday class. 
 
 Curious? Read on!
 
@@ -22,16 +22,16 @@ Curious? Read on!
 
 ## Methodology and programme
 
-This course consists of a self-learning part and two hands-on workshops. Each workshop lasts a full day. Interactive lectures are planned for the mornings while the afternoons are filled with supervised practical assignments.
+This course consists of a self-learning part and two hands-on workshops. a short interactive lecture are planned for the mornings while the afternoons are filled with supervised practical assignments.
 
 The program is as follows:
  - self-study: [Python course on Codeacademy](https://www.codecademy.com/learn/python)
  - workshop I:
-   - morning: interactive recap of Codeacademy material, introduction to API's and requests
-   - afternoon: practical assignment - using the Amsterdam API, with the requests module
+   - interactive recap of Codeacademy material, introduction to API's and requests
+   - practical assignment - using the Amsterdam API, with the requests module
  - workshop II: 
-   - morning: recap of workshop I, introduction to Twitter API and tweepy
-   - afternoon: practical assignment - using the Twitter API, with the tweepy module
+   - recap of workshop I, introduction to Twitter API and tweepy
+   - practical assignment - using the Twitter API, with the tweepy module
 
 Each interactive session + practical assignment pair is accompanied by a short manual and some Python scripts, see the [lecture materials](https://github.com/clucas111/gi-minor-python-course#lecture-materials) section below for more information. 
 
